@@ -1,0 +1,38 @@
+id: PBF1DB1B2
+initial_creation_type: input
+source_metadata:
+  title: Sakya Paṇḍita Series
+  language: bo
+  description: 'A series of texts by and about the great scholar Sakya Paṇḍita Kunga
+    Gyaltsen (kun dga'' rgyal mtshan, 1182–1251):'
+  volume:
+    c710bffdb16645c2a9791405649859c0:
+      title: A Wondrous Instruction for the Moment of Death
+      parent: Advice
+    f8cd2ebece8344d58895b7f02d556cfb:
+      title: Meditation on Amitābha
+      parent: Advice
+    8f2c4d66d76547fbb1c938c7fbbc6e90:
+      title: Verses of Aspiration to Recite While Prostrating
+      parent: Aspiration Prayers
+    dfd97c5cca154dcf8bc409443e7b58ea:
+      title: The Gaṇacakra Ritual
+      parent: Commentaries
+    4c35115a074e4fdab9eb954026ba3c45:
+      title: 'Rain of Wisdom, Love and Spiritual Power: A Guru Yoga of the Three Mañjughoṣas
+        of the Land of Snow'
+      parent: Guru Yoga
+    f8e88e84fe46473bb1d3f98181591bcf:
+      title: 'The Sun of Ambrosial Wisdom: A Guru Yoga of Dharmarāja Sakya Paṇḍita'
+      parent: Guru Yoga
+    d383332a4d694e26a44ab7cd37a5b453:
+      title: Sakya Paṇḍita’s Instruction on Parting from the Four Attachments
+      parent: Mind Training
+    2676feae52794104b697d5ed8d9c30ce:
+      title: Praise to Sakya Paṇḍita
+      parent: Praise
+    5651507e792f4b1392ffe410b1f90806:
+      title: Prayer to Invoke the Wisdom Mind of the Gentle Protector Sakya Paṇḍita
+      parent: Prayers
+created_at: '2022-03-01T01:26:41.733527'
+last_modified_at: '2022-03-01T01:26:41.733530'
